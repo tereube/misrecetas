@@ -1,0 +1,4 @@
+* {
+    box-sizing: border-box; /*border y padding cuente como anchura*/
+    background-color: red;
+}
